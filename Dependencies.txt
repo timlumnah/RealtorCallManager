@@ -1,0 +1,7 @@
+Dependencies
+
+pandas
+EZGmail
+numpy
+seaborn
+matplotlib
